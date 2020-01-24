@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91f8817f-d632-4c70-9cbd-fa43d800601e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Company.FunctionApp1/Test.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Company.FunctionApp1/Test.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WrY3nB5KxrJxUXGK3hO8OXoFrl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSettingsPageId" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="AzureFunctionsHost" factoryName="Azure Functions host">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Company.FunctionApp1/bin/Debug/netcoreapp3.0/bin/Company.FunctionApp1.dll" />
+      <option name="PROGRAM_PARAMETERS" value="host start --port 7071 --pause-on-error" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Company.FunctionApp1/bin/Debug/netcoreapp3.0/bin" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Company.FunctionApp1/Company.FunctionApp1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="AzureFunctions" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <option name="FUNCTION_NAMES" value="" />
+      <method v="2">
+        <option name="BuildFunctionsProject" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91f8817f-d632-4c70-9cbd-fa43d800601e" name="Default Changelist" comment="" />
+      <created>1579908983322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579908983322</updated>
+      <workItem from="1579908984978" duration="181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="501" y="235" key="#Default" timestamp="1579909157805">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="501" y="235" key="#Default/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909157805" />
+    <state width="1638" height="338" key="GridCell.Tab.0.bottom" timestamp="1579909180778">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.0.bottom/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180778" />
+    <state width="1638" height="338" key="GridCell.Tab.0.center" timestamp="1579909180776">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.0.center/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180776" />
+    <state width="1638" height="338" key="GridCell.Tab.0.left" timestamp="1579909180775">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.0.left/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180775" />
+    <state width="1638" height="338" key="GridCell.Tab.0.right" timestamp="1579909180777">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.0.right/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180777" />
+    <state width="1638" height="338" key="GridCell.Tab.1.bottom" timestamp="1579909180675">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.1.bottom/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180675" />
+    <state width="1638" height="338" key="GridCell.Tab.1.center" timestamp="1579909180673">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.1.center/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180673" />
+    <state width="1638" height="338" key="GridCell.Tab.1.left" timestamp="1579909180672">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.1.left/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180672" />
+    <state width="1638" height="338" key="GridCell.Tab.1.right" timestamp="1579909180674">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.1.right/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180674" />
+    <state width="1638" height="338" key="GridCell.Tab.2.bottom" timestamp="1579909180678">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.2.bottom/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180678" />
+    <state width="1638" height="338" key="GridCell.Tab.2.center" timestamp="1579909180677">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.2.center/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180676" />
+    <state width="1638" height="338" key="GridCell.Tab.2.left" timestamp="1579909180676">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.2.left/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180676" />
+    <state width="1638" height="338" key="GridCell.Tab.2.right" timestamp="1579909180677">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.2.right/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180677" />
+    <state width="1638" height="338" key="GridCell.Tab.3.bottom" timestamp="1579909180681">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.3.bottom/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180681" />
+    <state width="1638" height="338" key="GridCell.Tab.3.center" timestamp="1579909180680">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.3.center/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180680" />
+    <state width="1638" height="338" key="GridCell.Tab.3.left" timestamp="1579909180679">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.3.left/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180679" />
+    <state width="1638" height="338" key="GridCell.Tab.3.right" timestamp="1579909180680">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.3.right/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180680" />
+    <state width="1638" height="338" key="GridCell.Tab.4.bottom" timestamp="1579909180685">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.4.bottom/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180685" />
+    <state width="1638" height="338" key="GridCell.Tab.4.center" timestamp="1579909180683">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.4.center/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180683" />
+    <state width="1638" height="338" key="GridCell.Tab.4.left" timestamp="1579909180682">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.4.left/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180682" />
+    <state width="1638" height="338" key="GridCell.Tab.4.right" timestamp="1579909180684">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="338" key="GridCell.Tab.4.right/-1043.-1890.3360.1890/0.0.1680.1050@0.0.1680.1050" timestamp="1579909180684" />
+  </component>
+</project>
