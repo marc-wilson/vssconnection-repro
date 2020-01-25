@@ -21,8 +21,8 @@ namespace Company.FunctionApp1
             HttpRequest req, ILogger log)
         {
         
-            var url = "https://dev.azure.com/headset/";
-            var pat = "m5iqr2t7zfjbt4vzlrykg77met3ojhhm2ustvdlma4qacycu644a";
+            var url = "<project url>";
+            var pat = "<pat>";
             var credentials = new VssBasicCredential(string.Empty, pat);
             var connection = new VssConnection(new Uri(url), credentials);
             
